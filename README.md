@@ -11,7 +11,7 @@
 - [Vulnerability](#Vulnerability)
 - [Scenario](#Scenario)
 - [Usage](#configuration)
-- [License](#license)
+[![License](https://github.com/Basilabt/BAT_WirlessTool/blob/main/README.md)](LICENSE)
 - [Contact](#contact)
 
 ## Description
