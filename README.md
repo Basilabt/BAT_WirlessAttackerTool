@@ -9,7 +9,7 @@
 
 - [Description](#description)
 - [Vulnerability](#vulnerability)
-- [Scenario](#scenario)
+- [Installation](#scenario)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -20,8 +20,6 @@ BAT is a tool for discovering wireless networks, listening on specific wireless 
 
 The vulnerability lies in the fact that the IEEE 802.11 standard does not include robust authentication mechanisms for management frames. As a result, an attacker can easily spoof deauthentication frames and send them to a target device, causing disruption to its connection to the Wi-Fi network.
 
-## Deauthentication attack scenario
-The attacker sends forged deauthentication frames to the target device, causing it to disconnect from the Wi-Fi network. These deauthentication frames are part of the IEEE 802.11 standard and are used by legitimate network administrators to disconnect devices from a network. However, in a deauthentication attack, the frames are maliciously crafted and sent by an unauthorized party.
 
 
 ## Installation
