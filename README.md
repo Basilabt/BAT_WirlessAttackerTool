@@ -38,3 +38,11 @@ cd your-repo
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run the tool
+./main
+
+
+```
+
+## Usage 
