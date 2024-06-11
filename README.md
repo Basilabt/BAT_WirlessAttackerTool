@@ -1,6 +1,6 @@
 # BAT 🦇
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE)
 
 
 
