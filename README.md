@@ -1,17 +1,14 @@
 # BAT 🦇
 
-![License](https://img.shields.io/github/license/yourusername/your-repo.svg)
-![Issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)
-![Forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)
-![Stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)
+[![License]([https://img.shields.io/github/license/yourusername/your-repo.svg](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE))](LICENSE)
+
 
 ## Table of Contents
 
-- [Description](#Description)
-- [Vulnerability](#Vulnerability)
-- [Scenario](#Scenario)
-- [Usage](#configuration)
-[![License](https://github.com/Basilabt/BAT_WirlessTool/blob/main/README.md)](LICENSE)
+- [Description](#description)
+- [Vulnerability](#vulnerability)
+- [Scenario](#scenario)
+- [Usage](#usage)
 - [Contact](#contact)
 
 ## Description
