@@ -12,7 +12,7 @@
 - [Usage](#usage)
 - [Contact](#contact)
 
-  ## Preview
+## Preview
 ![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
 
 ## Description
@@ -26,19 +26,20 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 
 ## Installation
 
-Step-by-step instructions on how to get the development environment running.
 
-```bash
-# Clone the repository
-git clone https://github.com/Basilabt/BAT_WirlessAttackerTool/tree/main/BAT_WirelessTool
 
-# Navigate to the project directory
-cd your-repo
+```
+# 1. Clone the repository
+  > git clone https://github.com/Basilabt/BAT_WirlessAttackerTool/tree/main/BAT_WirelessTool
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Run the tool
+# 2. Navigate to the project directory
+  > cd your-repo
+
+# 3. Run setup.sh once after installation
+  > ./setup.sh 
+
+# 4. Run the tool
 ./main
 
 
