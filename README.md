@@ -36,7 +36,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 # 2. Navigate to the project directory
   > cd your-repo
 
-# 3. Run setup.sh once after installation
+# 3. Run setup.sh only once after installation
   > ./setup.sh 
 
 # 4. Run the tool
