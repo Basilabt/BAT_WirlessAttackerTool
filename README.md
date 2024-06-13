@@ -8,7 +8,7 @@
 - [Preview](#preview)
 - [Description](#description)
 - [Vulnerability](#vulnerability)
-- [Installation](#scenario)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
 
