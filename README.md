@@ -1,4 +1,4 @@
-# BAT 🦇
+# BAT Wireless Attacker Tool 🦇
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE)
 
