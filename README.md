@@ -30,7 +30,7 @@ Step-by-step instructions on how to get the development environment running.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Basilabt/BAT_WirlessAttackerTool/tree/main/BAT_WirelessTool
 
 # Navigate to the project directory
 cd your-repo
