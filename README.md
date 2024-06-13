@@ -39,7 +39,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 
 
 # 2. Navigate to the project directory
-  > cd your-repo
+  > cd BAT_WirlessAttackerTool
 
 # 3. Run setup.sh once after installation
   > ./setup.sh 
