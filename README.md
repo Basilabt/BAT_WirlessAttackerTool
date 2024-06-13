@@ -40,7 +40,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
   > ./setup.sh 
 
 # 4. Run the tool
-./main
+  > ./main
 
 
 ```
