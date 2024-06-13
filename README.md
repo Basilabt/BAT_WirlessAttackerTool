@@ -8,7 +8,7 @@
 - [Preview](#preview)
 - [Description](#description)
 - [Vulnerability](#vulnerability)
-- [Installation](#installation)
+- [Installation](#scenario)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -36,22 +36,32 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 # 2. Navigate to the project directory
   > cd your-repo
 
-# 3. Run setup.sh only once after installation
+# 3. Run setup.sh once after installation
   > ./setup.sh 
 
 # 4. Run the tool
-  > ./main
+./main
+
 
 ```
 
-
-
 ## Usage 
+
+- After installation, plug-in your Wi-Fi adapter to your computer
+- Find your Wi-Fi adapter (interface) name
+
+```
+> ifconfig
+```
+- Enter your Wi-Fi adapter (interface) name 
+![InterfaceInput](https://github.com/Basilabt/BAT_WirlessAttackerTool/assets/77483631/0b4fb012-8c47-46f7-a4e5-14d89854cee8)
+
+- Enjoy !
+![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
+
 
 
 ## Contact
 If you have any questions, suggestions, or feedback
 
 - **Email:** [baabutaleb@gmail.com](mailto:baabutaleb@gmail.com)
-
-
