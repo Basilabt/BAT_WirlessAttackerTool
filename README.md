@@ -37,14 +37,16 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 # 1. Clone the repository
   > git clone https://github.com/Basilabt/BAT_WirlessAttackerTool/tree/main/BAT_WirelessTool
 
+# 2. Change files to executable
+  > chmod u+x main setup.sh
 
-# 2. Navigate to the project directory
+# 3. Navigate to the project directory
   > cd BAT_WirlessAttackerTool
 
-# 3. Run setup.sh once after installation
+# 4. Run setup.sh once after installation
   > ./setup.sh 
 
-# 4. Run the tool
+# 5. Run the tool
 ./main
 
 
