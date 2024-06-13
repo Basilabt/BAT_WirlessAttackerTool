@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
-
+![Language](https://img.shields.io/badge/language-Python-blue)
 
 
 
