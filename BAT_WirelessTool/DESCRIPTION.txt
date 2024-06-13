@@ -1,0 +1,1 @@
+BAT is a tool for discovering wireless networks, listening on specific wireless networks and performing deauthentication attacks by exploiting a vulnerability in IEEE 802.11 standard.
