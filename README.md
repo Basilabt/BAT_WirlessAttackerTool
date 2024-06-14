@@ -39,7 +39,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 
 ```
 # 1. Clone the repository
-  > git clone https://github.com/Basilabt/BAT_WirlessAttackerTool/tree/main/BAT_WirelessTool
+  > git clone https://github.com/Basilabt/BAT_WirlessAttackerTool.git
 
 # 2. Add execute permission
   > chmod u+x main setup.sh
