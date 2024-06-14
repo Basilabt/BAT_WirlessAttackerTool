@@ -9,14 +9,14 @@
 
 ## 📑 Table of Contents
 
-- [🔍Preview](#preview)
-- [⚙️Requiremets](#requiremets)
-- [📝Description](#description)
-- [🛡️Vulnerability](#vulnerability)
-- [🛠Installation](#scenario)
-- [📚Usage](#usage)
-- [⚠️Disclaimer](#disclaimer)
-- [📞Contact](#contact)
+- [🔍 Preview](#preview)
+- [⚙️ Requiremets](#requiremets)
+- [📝 Description](#description)
+- [🛡️ Vulnerability](#vulnerability)
+- [🛠 Installation](#scenario)
+- [📚 Usage](#usage)
+- [⚠️ Disclaimer](#disclaimer)
+- [📞 Contact](#contact)
 
 ## 🔍 Preview
 ![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
