@@ -3,6 +3,7 @@
 [![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![Linux Icon](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
 
