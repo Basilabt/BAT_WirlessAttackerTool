@@ -9,13 +9,13 @@
 
 ## 📑 Table of Contents
 
-- [🔍 Preview](#-preview)
-- [⚙️ Requirements](#-requirements)
-- [📝 Description](#-description)
-- [🛡️ IEEE 802.11 Vulnerability](#-ieee-80211-vulnerability)
-- [🛠 Installation](#-installation)
-- [📚 Usage](#-usage)
-- [⚠️ Disclaimer](#-disclaimer)
+- [Preview](#-preview)
+- [Requirements](#-requirements)
+- [Description](#-description)
+- [IEEE 802.11 Vulnerability](#-ieee-80211-vulnerability)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Disclaimer](#-disclaimer)
 - [Contact](#-contact)
 
 ## 🔍 Preview
