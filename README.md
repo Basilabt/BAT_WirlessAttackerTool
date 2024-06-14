@@ -75,7 +75,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 ## ⚠️ Disclaimer
 Basel AbuTaleb has built the BAT Wireless Attacker Tool for educational and learning purposes only. It is designed to help users understand the vulnerabilities present in wireless networks and to develop skills in network security. 
 
-The developers and maintainers of BAT Wireless Attacker Tool are not responsible for any misuse or damage caused by its usage for unauthorized and harmful activities. Users are solely responsible for complying with all applicable laws and regulations when using this tool. By installing the tool you acknowledge that you have read and agree to the terms outlined in this disclaimer. You accept full responsibility for any actions taken with this tool.
+The developer of BAT Wireless Attacker Tool is not responsible for any misuse or damage caused by its usage for unauthorized and harmful activities. Users are solely responsible for complying with all applicable laws and regulations when using this tool. By installing the tool you acknowledge that you have read and agree to the terms outlined in this disclaimer. You accept full responsibility for any actions taken with this tool.
 
 ## 📞 Contact
 If you have any questions, suggestions, or feedback
