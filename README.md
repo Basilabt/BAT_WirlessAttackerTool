@@ -46,7 +46,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
   > chmod u+x main setup.sh
 
 # 3. Navigate to the project directory
-  > cd BAT_WirlessAttackerTool
+  > cd BAT_WirlessTool
 
 # 4. Run setup.sh only once after installation
   > ./setup.sh 
