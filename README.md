@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Linux Icon](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 ![Language](https://img.shields.io/badge/language-Python-blue)
+![Platform](https://img.shields.io/badge/platform-Linux-blue)
 
 
 
