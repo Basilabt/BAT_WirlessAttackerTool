@@ -10,10 +10,10 @@
 ## 📑 Table of Contents
 
 - [🔍 Preview](#preview)
-- [⚙️ Requiremets](#requiremets)
+- [⚙️ Requirements](#requirements)
 - [📝 Description](#description)
-- [🛡️ Vulnerability](#vulnerability)
-- [🛠 Installation](#scenario)
+- [🛡️ Vulnerability](#ieee-80211-vulnerability)
+- [🛠 Installation](#installation)
 - [📚 Usage](#usage)
 - [⚠️ Disclaimer](#disclaimer)
 - [📞 Contact](#contact)
