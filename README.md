@@ -7,7 +7,7 @@
 
 
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Preview](#preview)
 - [Requiremets](#requiremets)
@@ -18,22 +18,22 @@
 - [Disclaimer](#disclaimer)
 - [Contact](#contact)
 
-## Preview
+## 🔍 Preview
 ![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
 
-## Requiremets
+## ⚙️ Requiremets
 To use BAT Wireless Tool effectively, it is necessary to have an external compatible Wi-Fi adapter. The tool relies on the ability to interact with Wi-Fi networks, which requires the presence of a functioning Wi-Fi adapter.
 
-## Description
+## 📝 Description
 BAT is a tool for discovering wireless networks, listening on specific wireless networks and performing deauthentication attacks by exploiting a vulnerability in IEEE 802.11 standard.
 
-## IEEE 802.11 Vulnerability
+## 🛡️ IEEE 802.11 Vulnerability
 
 The vulnerability lies in the fact that the IEEE 802.11 standard does not include robust authentication mechanisms for management frames. As a result, an attacker can easily spoof deauthentication frames and send them to a target device, causing disruption to its connection to the Wi-Fi network.
 
 
 
-## Installation
+## 🛠 Installation
 
 
 
@@ -56,7 +56,7 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 
 ```
 
-## Usage 
+## 📚 Usage 
 
 - After installation, plug-in your Wi-Fi adapter to your computer
 - Find your Wi-Fi adapter (interface) name
@@ -72,12 +72,12 @@ The vulnerability lies in the fact that the IEEE 802.11 standard does not includ
 
 ![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
 
-## Disclaimer
+## ⚠️ Disclaimer
 BAT Wireless Attacker Tool is intended for educational and learning purposes only. It is designed to help users understand the vulnerabilities present in wireless networks and to develop skills in network security. 
 
 The developers and maintainers of BAT Wireless Attacker Tool are not responsible for any misuse or damage caused by its usage for unauthorized and harmful activities. Users are solely responsible for complying with all applicable laws and regulations when using this tool. By installing the tool you acknowledge that you have read and agree to the terms outlined in this disclaimer. You accept full responsibility for any actions taken with this tool.
 
-## Contact
+## 📞 Contact
 If you have any questions, suggestions, or feedback
 
 - **Email:** [baabutaleb@gmail.com](mailto:baabutaleb@gmail.com)
