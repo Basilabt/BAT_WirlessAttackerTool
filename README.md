@@ -32,6 +32,7 @@ BAT is a tool for discovering wireless networks, listening on specific wireless 
 
 The vulnerability lies in the fact that the IEEE 802.11 standard does not include robust authentication mechanisms for management frames. As a result, an attacker can easily spoof deauthentication frames and send them to a target device, causing disruption to its connection to the Wi-Fi network.
 
+![Scenario](https://github.com/Basilabt/BAT_WirlessAttackerTool/assets/77483631/0b7bc987-53dd-4879-b136-72386593fccb)
 
 
 ## 🛠 Installation
